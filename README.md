@@ -13,6 +13,8 @@ I am an MBA graduate with an emphasis in Data Science and a former collegiate ba
 My goal is to combine my background in athletics with data science to help sports organizations evaluate performance, identify trends, communicate insights, and make informed decisions.
 
 ---
+[View My Resume](Jace_Essig_Sports_Data_Analyst_Resume.pdf)
+---
 
 ## Technical Skills
 
