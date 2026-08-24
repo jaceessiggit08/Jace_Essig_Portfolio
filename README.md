@@ -1,31 +1,38 @@
 # Jace Essig
 
-### Sports Data Analyst | Data Science | Business Intelligence
+### Sports Data Analyst | Data Science | Sports Analytics
 
 [LinkedIn](https://www.linkedin.com/in/jace-essig-472920396/) | [GitHub](https://github.com/jaceessiggit08)
 
+---
+
 ## About Me
 
-I am an MBA graduate with an emphasis in Data Science and a former collegiate baseball player with an interest in sports analytics, business intelligence, machine learning, and data-driven decision-making.
+I am an MBA graduate with an emphasis in Data Science and a former collegiate baseball player interested in sports analytics, business intelligence, machine learning, and data-driven decision-making.
 
-My goal is to combine my background in competitive athletics with data science to help sports organizations identify trends, evaluate performance, and make informed decisions.
+My goal is to combine my background in athletics with data science to help sports organizations evaluate performance, identify trends, communicate insights, and make informed decisions.
+
+---
 
 ## Technical Skills
 
-* **Programming:** Python, SQL
-* **Data Analysis:** Pandas, Excel, Statistical Analysis
-* **Machine Learning:** Scikit-learn, Regression, Classification, Model Evaluation
-* **Data Visualization:** Plotly, Dash, Matplotlib
-* **Other:** Data Cleaning, Feature Engineering, Exploratory Data Analysis, Business Intelligence
+- **Programming:** Python, SQL
+- **Data Analysis:** Pandas, Excel, Statistical Analysis
+- **Machine Learning:** Scikit-learn, Regression, Classification, Model Evaluation
+- **Data Visualization:** Matplotlib, Plotly, Dash, Folium
+- **Data Science:** Data Cleaning, Feature Engineering, Exploratory Data Analysis, Web Scraping, REST APIs
+- **Analytics:** Business Intelligence, Dashboard Development, Data-Driven Decision-Making
+
+---
 
 ## Certification
 
 ### IBM Data Science Professional Certificate
 
-**IBM Skills Network / Coursera**
-Earned: **August 19, 2026**
+**IBM Skills Network / Coursera**  
+**Earned:** August 19, 2026
 
-The 12-course professional certificate included training in Python, SQL, data analysis, data visualization, machine learning, and applied data science.
+Completed a 12-course professional certificate covering Python, SQL, data analysis, data visualization, machine learning, and applied data science.
 
 [View IBM Data Science Professional Certificate](https://coursera.org/verify/professional-cert/D3NZEQI99SC6)
 
@@ -33,34 +40,51 @@ The 12-course professional certificate included training in Python, SQL, data an
 
 # Featured Capstone Project
 
-## SpaceX Falcon 9 Launch Success Analysis
+## Winning Space Race with Data Science
 
-This capstone project used the complete data science process to analyze historical SpaceX Falcon 9 launches and identify factors associated with successful first-stage landings. The project incorporated data collection, data cleaning, SQL analysis, exploratory data analysis, visualization, and machine-learning classification models.
+### SpaceX Falcon 9 Launch Success Analysis
+
+This project was completed as the capstone for the **IBM Data Science Professional Certificate**.
+
+The project analyzed historical SpaceX Falcon 9 launch data to determine which factors were associated with successful first-stage landings. The analysis incorporated data collection, data cleaning, SQL, exploratory data analysis, interactive dashboards, geospatial analysis, and machine-learning classification.
+
+### Technologies Used
+
+**Python | Pandas | SQL | BeautifulSoup | REST APIs | Folium | Plotly | Dash | Scikit-learn | Jupyter Notebook**
 
 ### Project Highlights
 
-* Collected and cleaned SpaceX Falcon 9 launch data
-* Used **SQL** to analyze launch sites, payloads, mission outcomes, and landing results
-* Conducted exploratory data analysis using **Python and Pandas**
-* Created interactive and statistical visualizations
-* Analyzed relationships between payload, orbit, launch site, and landing success
-* Created geospatial visualizations of SpaceX launch sites
-* Built and evaluated machine-learning classification models
-* Compared model performance to predict successful first-stage landings
+- Collected Falcon 9 launch data using the **SpaceX REST API and web scraping**
+- Cleaned and prepared launch data with **Python and Pandas**
+- Used **SQL** to analyze launch sites, payloads, mission outcomes, and landing results
+- Conducted exploratory data analysis to identify launch and landing trends
+- Built interactive geographic maps using **Folium**
+- Developed an interactive launch dashboard using **Plotly Dash**
+- Built and evaluated four machine-learning classification models
+- Used **GridSearchCV with 10-fold cross-validation** for model tuning
+
+### Machine Learning Models
+
+- Logistic Regression
+- Support Vector Machine
+- Decision Tree
+- K-Nearest Neighbors
+
+All four models achieved approximately **83.33% test accuracy** on the final test dataset.
 
 ### Key Findings
 
-The analysis showed that launch characteristics including payload, orbit, launch site, and flight history can provide useful information when evaluating Falcon 9 landing outcomes. Machine-learning models were then used to determine how effectively these characteristics could be used to predict landing success.
+- Falcon 9 landing success generally improved over time.
+- Launch site, orbit type, payload mass, and booster version showed relationships with landing outcomes.
+- Successful landings became more common at higher flight numbers.
+- KSC LC-39A demonstrated particularly strong launch success performance.
+- All four machine-learning models achieved approximately **83.33% test accuracy**.
 
-### Source Code
+### Project Repository
 
-**SpaceX Capstone Repository:**
+[**View SpaceX Data Science Capstone Project**](https://github.com/jaceessiggit08/DataScience_Repository)
 
-[View SpaceX Data Science Capstone Source Code](https://github.com/jaceessiggit08/DataScience_Repository)
-
-### Project Visualizations
-
-*Screenshots and visualizations from the final capstone presentation will be added here.*
+The repository contains the notebooks and code used for data collection, data wrangling, SQL analysis, visualization, interactive mapping, dashboard development, and machine learning.
 
 ---
 
@@ -74,13 +98,13 @@ The project included data cleaning, feature engineering, regression analysis, an
 
 The final Ridge Regression model achieved an **R² of approximately 0.979**.
 
-### Technologies
+### Technologies Used
 
-Python | Pandas | Scikit-learn | Machine Learning | Regression | Data Visualization
+**Python | Pandas | Scikit-learn | Regression | Machine Learning | Data Visualization**
 
-### Source Code
+### Project Repository
 
-[View MLB Pitch Velocity Prediction Project](https://github.com/jaceessiggit08/baseball-pitch-velocity-model)
+[**View MLB Pitch Velocity Prediction Model**](https://github.com/jaceessiggit08/baseball-pitch-velocity-model)
 
 ---
 
@@ -88,34 +112,41 @@ Python | Pandas | Scikit-learn | Machine Learning | Regression | Data Visualizat
 
 ## Automobile Sales Dashboard
 
-Developed an interactive automobile sales dashboard using Python, Dash, Plotly, and Pandas to analyze historical automobile sales trends.
+Developed an interactive dashboard using Python, Dash, Plotly, and Pandas to analyze historical automobile sales trends.
 
-The dashboard allows users to explore yearly automobile sales performance and compare sales during recessionary and non-recessionary periods.
+The dashboard allows users to examine yearly sales performance and compare automobile sales during recessionary and non-recessionary periods.
 
-### Technologies
+### Technologies Used
 
-Python | Dash | Plotly | Pandas | Data Visualization
+**Python | Dash | Plotly | Pandas | Data Visualization | Dashboard Development**
 
-[View Automobile Sales Dashboard](https://github.com/jaceessiggit08/Automobile-Sales-Dashboard)
+### Project Repository
+
+[**View Automobile Sales Dashboard**](https://github.com/jaceessiggit08/Automobile-Sales-Dashboard)
 
 ---
 
 # Career Interests
 
-I am interested in opportunities involving:
+I am interested in entry-level opportunities involving:
 
-* Sports Analytics
-* Data Analytics
-* Business Intelligence
-* Player and Performance Analytics
-* Machine Learning
-* Data Visualization
-* Sports Business Analytics
+- Sports Analytics
+- Data Analytics
+- Business Intelligence
+- Player and Performance Analytics
+- Data Visualization
+- Machine Learning
+- Statistical Analysis
+- Sports Business Analytics
+
+My goal is to use my experience in athletics and data science to help organizations make informed, data-driven decisions.
+
+---
 
 ## Contact
 
-**Jace Essig**
+**Jace Essig**  
 Olathe, Kansas
 
-[LinkedIn](https://www.linkedin.com/in/jace-essig-472920396/)
+[LinkedIn](https://www.linkedin.com/in/jace-essig-472920396/)  
 [GitHub](https://github.com/jaceessiggit08)
