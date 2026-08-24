@@ -55,7 +55,6 @@ The analysis showed that launch characteristics including payload, orbit, launch
 ### Source Code
 
 **SpaceX Capstone Repository:**
-### Source Code
 
 [View SpaceX Data Science Capstone Source Code](https://github.com/jaceessiggit08/DataScience_Repository)
 
